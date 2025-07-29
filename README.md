@@ -77,11 +77,8 @@ java -cp out editor.SaveFileEncoder
 
 Pull requests are welcome. If you find a bug or have feature suggestions, please open an issue on GitHub.
 
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
 For any issues, reach out via GitHub or open a discussion in the repository.
 
+---
